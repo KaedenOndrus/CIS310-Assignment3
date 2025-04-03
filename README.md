@@ -1,2 +1,2 @@
 # CIS310-Assignment3
-see file '4bitProcessor' for final implementation
+see file '4bitProcessor.dig' for final implementation
